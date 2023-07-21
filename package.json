@@ -10,7 +10,6 @@
     
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.5",
     "vite": "^4.4.0"
   },
   "dependencies": {
